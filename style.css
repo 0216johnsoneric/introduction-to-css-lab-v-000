@@ -11,7 +11,7 @@ div {
   font-family: "Helvetica Neue";
   background: white;
   padding: 30px;
-  
+
   /* Your code here! */
 }
 
@@ -20,6 +20,7 @@ div {
 
   /* Your code here! */
   color:red;
+  font-size: 22px;
 }
 
 /* Class selector to select elements containing the class 'perspective-questions' */
